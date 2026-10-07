@@ -24,7 +24,7 @@ WP Client Toolkit lets an administrator mark any user as a **Client**. Clients g
 
 **From a release zip**
 
-1. Download the latest zip from the [Releases](../../releases) page.
+1. Download the latest zip from the [Releases](https://github.com/Webloogix/client-toolkit/releases) page.
 2. In WordPress, go to **Plugins → Add New → Upload Plugin** and upload the zip.
 3. Activate **WP Client Toolkit**.
 
@@ -32,7 +32,7 @@ WP Client Toolkit lets an administrator mark any user as a **Client**. Clients g
 
 ```bash
 cd wp-content/plugins
-git clone https://github.com/hasnatahmad095/client-toolkit.git wp-client-toolkit
+git clone https://github.com/Webloogix/client-toolkit.git wp-client-toolkit
 ```
 
 Then activate the plugin from the **Plugins** screen.
@@ -136,4 +136,4 @@ If you find a security issue, please report it privately to the maintainers inst
 
 ## License
 
-GPL-2.0-or-later, matching the WordPress license. See the `License` header in [wp-client-toolkit.php](wp-client-toolkit.php).
+GPL-2.0-or-later, matching the WordPress license. See [LICENSE](LICENSE) for the full text.
